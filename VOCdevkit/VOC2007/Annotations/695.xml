@@ -1,0 +1,1 @@
+<annotation><folder>VOC2007</folder><filename>695</filename><size><width>3625</width><height>1735</height><depth>3</depth></size><object><name>F4</name><bndbox><xmin>1394</xmin><ymin>1329</ymin><xmax>1599</xmax><ymax>1493</ymax></bndbox></object></annotation>

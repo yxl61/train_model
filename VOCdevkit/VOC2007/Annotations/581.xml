@@ -1,0 +1,1 @@
+<annotation><folder>VOC2007</folder><filename>581</filename><size><width>4288</width><height>2848</height><depth>3</depth></size><object><name>Mirage2000</name><bndbox><xmin>1341</xmin><ymin>700</ymin><xmax>2500</xmax><ymax>2445</ymax></bndbox></object></annotation>

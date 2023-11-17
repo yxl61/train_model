@@ -1,0 +1,1 @@
+<annotation><folder>VOC2007</folder><filename>1411</filename><size><width>4256</width><height>2848</height><depth>3</depth></size><object><name>Tornado</name><bndbox><xmin>1</xmin><ymin>767</ymin><xmax>3959</xmax><ymax>2457</ymax></bndbox></object></annotation>
